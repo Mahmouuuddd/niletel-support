@@ -1,0 +1,32 @@
+# Environment variables — NEVER upload this
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Sentence Transformers model cache
+.cache/
+models/
+
+# Local ticket log — contains personal data
+tickets.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# FAISS index if saved to disk
+*.index
