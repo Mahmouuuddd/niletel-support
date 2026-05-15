@@ -101,8 +101,6 @@ niletel-support/
 │   └── ... (all .md files)
 │
 ├── requirements.txt    # Python dependencies
-├── .env.example        # Environment variables template
-├── .gitignore          # Files excluded from git
 └── README.md           # This file
 ```
 
